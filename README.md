@@ -1,1 +1,10 @@
-# dsc-phase-1-project-template
+# Project Title
+
+## Overview
+
+## Business Understanding
+
+## Data Understanding and Analysis
+
+## Conclusion
+
