@@ -1,3 +1,6 @@
+# Don't include the im.db database
+zippedData/im.db
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
